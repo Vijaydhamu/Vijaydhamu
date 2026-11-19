@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Vijay 👋
 
-<!--
-**Vijaydhamu/Vijaydhamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motion capture & humanoid robotics at **Xsens**, covering APAC South.
 
-Here are some ideas to get you started:
+**Focus:** wearable inertial mocap · humanoid teleoperation · motion retargeting · ROS 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Exploring
+- [xsens_mtw_driver_ros2](https://github.com/Vijaydhamu/xsens_mtw_driver_ros2) – ROS 2 driver for the Xsens MTw Awinda
+- [GMR](https://github.com/Vijaydhamu/GMR) – real-time human-to-humanoid motion retargeting
+- [RoTools](https://github.com/Vijaydhamu/RoTools) – ROS toolkit for task scheduling and tele-manipulation
+- [toyxyz_RGBMocap](https://github.com/Vijaydhamu/toyxyz_RGBMocap) – video mocap with humanoid retargeting
+
+### 🤝 Let's talk
+Working on humanoids, robotics or biomechanics in South and Southeast Asia? Happy to connect.
